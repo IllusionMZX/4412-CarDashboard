@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon.png</file>
+        <file>fuel-icon.png</file>
+        <file>temperature-icon.png</file>
+        <file>left_arrow.png</file>
+        <file>right_arrow.png</file>
+        <file>double_flash.png</file>
+        <file>marker1.png</file>
+        <file>camera.png</file>
+        <file>dashboard.png</file>
+        <file>imu.png</file>
+        <file>locate.png</file>
+        <file>map.png</file>
+        <file>weather.png</file>
+    </qresource>
+</RCC>
