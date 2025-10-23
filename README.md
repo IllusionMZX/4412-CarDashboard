@@ -1,5 +1,5 @@
 # Qt-based Embedded Linux Automotive Dashboard System
-# 基于QT的嵌入式Linux车载中控系统
+# 基于QT的嵌入式Linux车载仪表板
 
 <div align="center">
 
@@ -728,3 +728,4 @@ make
 
 - 项目仓库：[GitHub](https://github.com/IllusionMZX/4412-CarDashborad)
 - 问题报告：[Issues](https://github.com/IllusionMZX/4412-CarDashborad/issues)
+
